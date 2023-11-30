@@ -14,4 +14,4 @@ Comment Rediger une presentation professionnel
 
 #### Solution
 
-[Solution ](https://docs.google.com/presentation/d/1JM-ssnXMGKW2dOdiQstgzKIdG1ub5IuVi_qrPTGOQLU/edit#slide=id.g29f46b743be_2_0)
+[Solution ](https://docs.google.com/presentation/d/1daxVDKlwhrzNss9xV6FksGnad_R-OPiIvlrRNpHx230/edit#slide=id.g29e9b90cb2c_1_28)
