@@ -10,8 +10,8 @@ Comment Rediger une presentation professionnel
 - Le livrable doit être une présentation, accompagnée d'un fichier README
 
 ### Reference
-[Prepare a Professional Presentation](https://www.shutterstock.com/fr/blog/belles-presentations-powerpoint) </br>
+[Shutterstock](https://www.shutterstock.com/fr/blog/belles-presentations-powerpoint) </br>
 
 #### Solution
 
-[Solution ](https://docs.google.com/presentation/d/1daxVDKlwhrzNss9xV6FksGnad_R-OPiIvlrRNpHx230/edit#slide=id.g29e9b90cb2c_1_28)
+[Solution ](https://docs.google.com/presentation/d/1xTxGL7Mj20oIZXD9PbmSrS0R3Sg_lkfh5rhnjiMHzqg/edit#slide=id.g29e9b90cb2c_1_28)
