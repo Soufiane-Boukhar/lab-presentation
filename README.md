@@ -11,6 +11,7 @@ Comment Rediger une presentation professionnel
 
 ### Reference
 [Shutterstock](https://www.shutterstock.com/fr/blog/belles-presentations-powerpoint) </br>
+[Microsoft](https://support.microsoft.com)
 
 #### Solution
 
